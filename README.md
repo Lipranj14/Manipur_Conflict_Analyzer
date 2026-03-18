@@ -1,5 +1,7 @@
 # 🛡️ Manipur Conflict & Humanitarian Impact Analyzer
 
+🔴 **[Live App: Click here to interact with the dashboard!](https://manipur-conflict-analyzer-lipranjdaharwal.streamlit.app/)**
+
 An interactive geospatial and temporal analysis dashboard for visualizing and predicting conflict events in Manipur, India. Built with Python and Streamlit, this application provides actionable insights into the humanitarian impact of the conflict using historical data (ACLED synthetic dataset).
 
 ## 🌟 Features
