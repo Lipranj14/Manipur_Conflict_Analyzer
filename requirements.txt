@@ -4,6 +4,7 @@ scikit-learn
 matplotlib
 seaborn
 folium
-streamlit
+streamlit>=1.30.0
 streamlit-folium
 plotly
+altair<5
