@@ -60,5 +60,4 @@ The predictive component uses a **Random Forest Classifier** to determine the ri
 - **Lag count metrics** (e.g., number of events/fatalities from the previous month).
 - Temporal indicators (Year).
 
-## 📝 Note
-*This project was developed for educational and portfolio purposes, initially utilizing synthetic/simulated data modeled after established armed conflict databases to demonstrate data analysis and machine learning capabilities.*
+
